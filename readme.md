@@ -1,0 +1,1 @@
+# creamos el repositorio y la estructura general del crud de productos
