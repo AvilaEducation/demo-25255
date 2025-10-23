@@ -2,3 +2,6 @@
 ....
 
 # agregar la creacion de productos y busqueda por nombre
+...
+
+# agregamos la editacion y el borrado de productos
